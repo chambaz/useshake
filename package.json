@@ -1,0 +1,19 @@
+{
+  "name": "useshake",
+  "version": "1.0.2",
+  "description": "React hook for device shaking",
+  "author": "Adam Chambers <adammchambers@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chambaz/useshake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chambaz/useshake/issues"
+  },
+  "homepage": "https://github.com/chambaz/useshake#readme",
+  "main": "useshake.js",
+  "dependencies": {
+    "shake.js": "~1.2.2"
+  }
+}
